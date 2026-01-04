@@ -23,8 +23,8 @@
 ### 依赖安装
 1.  克隆仓库:
     ```bash
-    git clone <your-repo-link>
-    cd <your-repo-name>
+    git clone https://github.com/zwj2023zwj/AI-Agent
+    cd AI-Agent
     ```
 
 2.  安装依赖:
@@ -142,6 +142,6 @@ python main.py describe_image "path/to/image.jpg"
 
 ### 5.2 演示视频 (Demo Video)
 
-以下是本项目的完整运行视频，主要展示如何在前端进行操作来实现后端的相应功能。
+由于演示视频比较大，因此单独发到邮件中，该视频主要展示如何在前端进行操作来实现后端的相应功能。
 
 
